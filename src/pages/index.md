@@ -29,7 +29,7 @@ sections:
         url: blog/index.html
         style: button
 seo:
-  title: 'Teach me Blockchain: Crypto Like I''m 5'
+  title: 'Learning Blockchain: Like I''m 5'
   description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
