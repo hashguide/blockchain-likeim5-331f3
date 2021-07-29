@@ -2,7 +2,6 @@
     "layout_style": "simple",
     "palette": "orange",
     "header": {
-        "title": "Stackbit Fresh",
         "tagline": "Header Tagline",
         "profile_img": "images/avatar.png",
         "profile_img_alt": "Author avatar",
